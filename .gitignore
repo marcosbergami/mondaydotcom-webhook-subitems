@@ -1,0 +1,4 @@
+node_modules
+.dccache
+.DS_Store
+.env
